@@ -36,5 +36,3 @@ I'm a passionate Front-end Developer with a focus on creating delightful and sea
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSalt&show_icons=true&theme=radical)
-
-Feel free to reach out for collaboration or just to say hi! 😊
