@@ -1,4 +1,4 @@
-# Hello World!!! 👋 I'm Arthur
+# Hello World!
 
 I'm a passionate Front-end Developer with a focus on creating delightful and seamless user experiences. Here are some of my skills:
 
