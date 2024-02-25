@@ -2,6 +2,8 @@
 
 I'm a passionate Front-end Developer with a focus on creating delightful and seamless user experiences. Here are some of my skills:
 
+## Tech Skills
+
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
@@ -29,6 +31,10 @@ I'm a passionate Front-end Developer with a focus on creating delightful and sea
     <img src="https://github.com/ArthurSalt/ArthurSalt/assets/131491516/d107d948-9bd3-4299-ad27-34ae0dc027ce" alt="Gmail" title="Gmail" width="40" height="40"/>
   <a/>
 </div>
+<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSalt&show_icons=true&theme=radical)
+
 Feel free to reach out for collaboration or just to say hi! 😊
