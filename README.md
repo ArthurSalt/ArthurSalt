@@ -18,7 +18,7 @@ I'm a passionate Front-end Developer with a focus on creating delightful and sea
 
 ## Contacts
 
-<div align="center">
+<div align="center" target='_blank'>
   <a href='https://www.linkedin.com/in/arthur-saltykov-1905822b4/'>
     <img src="https://github.com/ArthurSalt/ArthurSalt/assets/131491516/a1edeee5-6005-497f-aef8-31c40e939d20" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
   <a/>
