@@ -1,7 +1,9 @@
-
+<div align="center">
+  <img src="https://images.app.goo.gl/tt96N2RwVyFRBwQP8" alt="Header" width="400" height="400"/>
+</div>
 # Hello World!!! 👋 I'm Arthur
 
-I'm a passionate Front-end Developer with a focus on creating delightful user experiences. Here are some of my skills:
+I'm a passionate Front-end Developer with a focus on creating delightful and seamless user experiences. Here are some of my skills:
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
@@ -24,11 +26,13 @@ I'm a passionate Front-end Developer with a focus on creating delightful user ex
     <img src="https://github.com/ArthurSalt/ArthurSalt/assets/131491516/a1edeee5-6005-497f-aef8-31c40e939d20" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
   <a/>
   <a href='t.me/ArthurSaltykov'>
-    <img src="https://github.com/ArthurSalt/ArthurSalt/assets/131491516/4d74ddbd-8ce6-4ed4-bc44-4a1f785ad10a" alt="Telegram" title="Telegram" width="40" height="40"/>
+    <img src="https://github.com/ArthurSalt/ArthurSalt/assets/131491516/4d74ddbd-8ce6-4ed4-bc44-4a1f785ad10a" target='_blank' alt="Telegram" title="Telegram" width="40" height="40"/>
   <a/>
   <a href='mailto:devart.frontend@gmail.com'>
     <img src="https://github.com/ArthurSalt/ArthurSalt/assets/131491516/d107d948-9bd3-4299-ad27-34ae0dc027ce" alt="Gmail" title="Gmail" width="40" height="40"/>
   <a/>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSalt)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to reach out for collaboration or just to say hi! 😊
