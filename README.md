@@ -22,7 +22,7 @@ I'm a passionate Front-end Developer with a focus on creating delightful and sea
   <a href='https://www.linkedin.com/in/arthur-saltykov-1905822b4/' target='_blank'>
     <img src="https://github.com/ArthurSalt/ArthurSalt/assets/131491516/a1edeee5-6005-497f-aef8-31c40e939d20" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
   <a/>
-  <a href='t.me/ArthurSaltykov' target='_blank'>
+  <a href='https://t.me/ArthurSaltykov' target='_blank'>
     <img src="https://github.com/ArthurSalt/ArthurSalt/assets/131491516/4d74ddbd-8ce6-4ed4-bc44-4a1f785ad10a" alt="Telegram" title="Telegram" width="40" height="40"/>
   <a/>
   <a href='mailto:devart.frontend@gmail.com'>
