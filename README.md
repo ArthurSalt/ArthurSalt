@@ -19,13 +19,16 @@ I'm a passionate Front-end Developer with a focus on creating delightful and sea
 </div>
 
 ## Contacts
-
+https://www.codewars.com/users/ArthurQ
 <div align="center">
   <a href='https://www.linkedin.com/in/arthur-saltykov-1905822b4/'>
     <img src="https://github.com/ArthurSalt/ArthurSalt/assets/131491516/a1edeee5-6005-497f-aef8-31c40e939d20" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
   <a/>
   <a href='https://t.me/ArthurSaltykov'>
     <img src="https://github.com/ArthurSalt/ArthurSalt/assets/131491516/4d74ddbd-8ce6-4ed4-bc44-4a1f785ad10a" alt="Telegram" title="Telegram" width="40" height="40"/>
+  <a/>
+  <a href='https://www.codewars.com/users/ArthurQ'>
+    <img src="https://github.com/ArthurSalt/ArthurSalt/assets/131491516/49dcd646-763f-4223-98ee-e105cee21c80" alt="Codewars" title="Codewars" width="40" height="40"/>
   <a/>
   <a href='mailto:devart.frontend@gmail.com'>
     <img src="https://github.com/ArthurSalt/ArthurSalt/assets/131491516/d107d948-9bd3-4299-ad27-34ae0dc027ce" alt="Gmail" title="Gmail" width="40" height="40"/>
